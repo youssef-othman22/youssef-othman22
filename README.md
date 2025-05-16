@@ -24,8 +24,8 @@
   👋 Hi, I'm <strong>Youssef Othman</strong> – a Computer Science student, competitive programmer, and graphic designer.<br><br>
   🎓 <strong>Second-year Computer Science student</strong><br>
   💻 <strong>Passionate about programming, problem-solving, and algorithms</strong><br>
-  🌱 <strong>Currently learning Data Structures and Algorithms</strong><br>
-  💬 <strong>Ask me about:</strong> C++, OOP, problem solving, or tech-related topics<br>
+   <strong>Currently learning Data Structures and Algorithms</strong><br>
+  💬 <strong>Don't hesitate to ask me about:</strong> C++, OOP, problem solving, datastructures and algoritms <br>
   📫 <strong>Email:</strong> <a href="mailto:youssefcourses001@gmail.com">youssefcourses001@gmail.com</a>
 </p>
 
